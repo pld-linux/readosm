@@ -6,7 +6,7 @@ Summary:	Simple library for extracting the contents from OpenStreetMap files
 Summary(pl.UTF-8):	Prosta biblioteka do wyciągania danych z plików OpenStreetMap
 Name:		readosm
 Version:	1.0.0a
-Release:	2
+Release:	3
 License:	MPL v1.1 or GPL v2+ or LGPL v2.1+
 Group:		Libraries
 Source0:	http://www.gaia-gis.it/gaia-sins/readosm-sources/%{name}-%{version}.tar.gz
